@@ -17,16 +17,18 @@ def test(data):
 bot.run()
 ```
 详细帮助请看[help.md](./help.md)
-
+#依赖：
+    python3.6+
+    go-cqhttp
 #安装：
-    windows:
-    ```batch
-        pip install -r requirements.txt
-    ```
-    linux:
-    ```bash
-        pip3 install -r requirements.txt
-    ```
+windows:
+```batch
+pip install -r requirements.txt
+```
+linux:
+```bash
+pip3 install -r requirements.txt
+```
 #联系我：
     邮箱：[linxuan@lxdn.cc](mailto:linxuan@lxdn.cc)
     QQ:3455576401
